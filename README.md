@@ -16,9 +16,9 @@ Aprende Rust en castellano con ejemplos, tutoriales y ejercicios.
 
 Este capítulo cubre los conceptos que aparecen en casi todos los lenguajes de programación y cómo funcionan en Rust. Muchos lenguajes de programación tienen mucho en común en su núcleo. Ninguno de los conceptos presentados en este capítulo es exclusivo de Rust, pero los discutiremos en el contexto de Rust y explicaremos las convenciones en torno al uso de estos conceptos. En concreto, aprenderá sobre las `variables`, los `tipos básicos`, las `funciones`, los `comentarios` y el `flujo de control`. Estos fundamentos estarán en todos los programas de Rust, y aprenderlos temprano te dará un núcleo fuerte desde el que comenzar.
 
-### Palabras clave
+### Palabras clave o `keywords`
 
-`Palabras clave` El lenguaje Rust tiene un conjunto de palabras clave que están reservadas para el uso exclusivo del lenguage, al igual que en otros lenguages. Tenga en cuenta que no puede usar estas palabras como nombres de variables o funciones. La mayoría de las palabras clave tienen significados especiales, y las usarás para realizar diversas tareas en tus programas de Rust; algunos no tienen ninguna funcionalidad actual asociada, pero se han reservado para la funcionalidad que podría agregarse a Rust en el futuro. Veamos una lista de las palabras clave:
+**Palabras clave** o `keywords`, El lenguaje Rust tiene un conjunto de palabras clave `keywords` que están reservadas para el uso exclusivo del lenguage, al igual que en otros lenguages. Tenga en cuenta que no puede usar estas palabras como nombres de variables o funciones. La mayoría de las palabras clave tienen significados especiales, y las usarás para realizar diversas tareas en tus programas de Rust; algunos no tienen ninguna funcionalidad actual asociada, pero se han reservado para la funcionalidad que podría agregarse a Rust en el futuro. Veamos una lista de las palabras clave:
 
 Keywords Currently in Use
 
