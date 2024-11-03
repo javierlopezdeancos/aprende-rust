@@ -12,8 +12,9 @@ Aprende Rust en castellano con ejemplos, tutoriales y ejercicios.
   - [Sumario](#sumario)
   - [Conceptos comunes de programacion](#conceptos-comunes-de-programacion)
   - [Palabras clave o keywords](./docs/keywords.md#palabras-clave-o-keywords)
-    - [Keywords actualmente en uso](./docs/keywords.md#keywords-actualmente-en-uso)
+    - [Keywords o palabras clave actualmente en uso](./docs/keywords.md#keywords-o-palabras-clave-actualmente-en-uso)
     - [Keywords o palabras clave reservadas para su uso](./docs/keywords.md#keywords-o-palabras-clave-reservadas-para-su-uso)
+    - [Raw identifiers Identificadores sin formato](./docs/keywords.md#raw-identifiers-identificadores-sin-formato)
     - [Referencias](./docs/keywords.md#referencias)
 
 ## Conceptos comunes de programacion
