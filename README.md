@@ -9,7 +9,6 @@ Aprende Rust en castellano con ejemplos, tutoriales y ejercicios.
 ## Sumario
 
 - [Aprende Rust 🦀 en castellano 🇪🇸](#aprende-rust--en-castellano-)
-  - [Sumario](#sumario)
   - [Conceptos comunes de programacion](#conceptos-comunes-de-programacion)
   - [Palabras clave o keywords](./docs/keywords.md#palabras-clave-o-keywords)
     - [Keywords o palabras clave actualmente en uso](./docs/keywords.md#keywords-o-palabras-clave-actualmente-en-uso)
